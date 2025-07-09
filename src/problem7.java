@@ -11,9 +11,6 @@ public class problem7 {
         String[] secondWord = br.readLine().split("");
 
 
-        
-
-
 
     }
 }
